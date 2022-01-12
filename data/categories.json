@@ -20,7 +20,6 @@
         "kaatunut",
         "korjata",
         "kunto",
-        "liikennemerkki",
         "liukas",
         "lumi",
         "reikä",
@@ -36,7 +35,6 @@
         "katutyö",
         "kävelytie",
         "liikennevalo",
-        "merkki",
         "päästä",
         "suojatie",
         "työmaa"
@@ -60,6 +58,8 @@
         "ajorata",
         "asfaltti",
         "kuoppa",
+        "liikennemerkki",
+        "merkki",
         "läpiajo",
         "maalaus",
         "monttu"
