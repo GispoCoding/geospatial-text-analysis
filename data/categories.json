@@ -3,11 +3,6 @@
         "vaara",
         "vaarallinen"
     ],
-    "kiitos": [
-        "kiitos",
-        "kiittää",
-        "suurkiitos"
-    ],
     "kunnossapito": [
         "aurata",
         "auraus",
@@ -22,6 +17,8 @@
         "kunto",
         "liukas",
         "lumi",
+        "lumityö",
+        "pestä",
         "reikä",
         "rikki",
         "siistiä",
@@ -67,7 +64,8 @@
     "pysäköinti": [
         "auto",
         "parkkipaikka",
-        "pysäköinti"
+        "pysäköinti",
+        "valvonta"
     ],
     "roskat": [
         "jäte",
@@ -108,6 +106,7 @@
         "koira",
         "metsä",
         "oksa",
+        "kasvaa",
         "pensas",
         "puisto",
         "pusikko",
@@ -131,5 +130,10 @@
         "meteli",
         "puuttua",
         "päätös"
+    ],
+    "kiitos": [
+        "kiitos",
+        "kiittää",
+        "suurkiitos"
     ]
 }
