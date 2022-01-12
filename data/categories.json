@@ -1,0 +1,136 @@
+{
+    "vaara": [
+        "vaara",
+        "vaarallinen"
+    ],
+    "kiitos": [
+        "kiitos",
+        "kiittää",
+        "suurkiitos"
+    ],
+    "kunnossapito": [
+        "aurata",
+        "auraus",
+        "harjaus",
+        "hiekka",
+        "hiekoitus",
+        "ilkivalta",
+        "irti",
+        "jälki",
+        "kaatua",
+        "kaatunut",
+        "korjata",
+        "kunto",
+        "liikennemerkki",
+        "liukas",
+        "lumi",
+        "reikä",
+        "rikki",
+        "siistiä",
+        "siivota",
+        "sotkettu",
+        "töhritty",
+        "töhryt"
+    ],
+    "jalankulku": [
+        "jalkakäytävä",
+        "katutyö",
+        "kävelytie",
+        "liikennevalo",
+        "merkki",
+        "päästä",
+        "suojatie",
+        "työmaa"
+    ],
+    "julkinen_liikenne": [
+        "bussipysäkki",
+        "juna",
+        "juna-asema",
+        "metroasema",
+        "rautatieasema",
+        "ratikka"
+    ],
+    "pyöräliikenne": [
+        "polkupyörä",
+        "pyörä",
+        "pyöräilijä",
+        "pyöräkaista",
+        "pyörätie"
+    ],
+    "autoliikenne": [
+        "ajorata",
+        "asfaltti",
+        "kuoppa",
+        "läpiajo",
+        "maalaus",
+        "monttu"
+    ],
+    "pysäköinti": [
+        "auto",
+        "parkkipaikka",
+        "pysäköinti"
+    ],
+    "roskat": [
+        "jäte",
+        "roska",
+        "roska-astia",
+        "roskata",
+        "roskis",
+        "täysi"
+    ],
+    "kalusteet": [
+        "aita",
+        "aitaus",
+        "kukka",
+        "laite",
+        "penkki",
+        "tolppa"
+    ],
+    "opasteet": [
+        "kyltti",
+        "opaste"
+    ],
+    "valaistus": [
+        "pimeä",
+        "valaistus",
+        "valo"
+    ],
+    "liikunta": [
+        "kenttä",
+        "kuntosali",
+        "latu",
+        "luistelukenttä",
+        "uimahalli",
+        "uimaranta",
+        "ulkoilu",
+        "urheilukenttä"
+    ],
+    "luonto": [
+        "koira",
+        "metsä",
+        "oksa",
+        "pensas",
+        "puisto",
+        "pusikko",
+        "puu"
+    ],
+    "palvelut": [
+        "henkilökunta",
+        "kirja",
+        "kirjasto",
+        "koulu",
+        "lapsi",
+        "museo",
+        "päiväkoti"
+    ],
+    "muu_ongelma": [
+        "kiinni",
+        "joutua",
+        "laiton",
+        "lupa",
+        "melu",
+        "meteli",
+        "puuttua",
+        "päätös"
+    ]
+}

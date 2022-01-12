@@ -1,42 +1,70 @@
-aita
-ajorata
-asfaltti
-aurata
-auraus
-auto
-bussipysäkki
-hiekka
-hiekoitus
-jalkakäytävä
-jälki
-kenttä
-kirja
-koira
-kuoppa
-kävelytie
-lapsi
-latu
-liikennemerkki
-liukas
-lumi
-merkki
-metsä
-monttu
-oksa
-parkkipaikka
-penkki
-pimeä
-puisto
-puu
-pyörä
-pyöräilijä
-pyörätie
-päiväkoti
-roska
-roskis
-suojatie
-tolppa
-työmaa
-vaarallinen
-valaistus
-valo
+aita    -
+aitaus  -
+ajorata -
+asfaltti    -
+aurata  -
+auraus  -
+auto    -
+bussipysäkki    -
+hiekka  -
+hiekoitus   -
+irti    -
+jalkakäytävä    -
+jälki   -
+jäte    -
+kaatua  -
+katutyö -
+kenttä  -
+kiitos  -
+kirja   -
+koira   -
+korjata -
+koulu   -
+kukka   -
+kunto   -
+kuoppa  -
+kyltti  -
+kävelytie   -
+laite   -
+laiton  -
+lapsi   -
+latu    -
+liikenne    -
+liikennemerkki  -
+liikennevalo    -
+liukas  -
+lumi    -
+läpiajo -
+maalaus -
+melu    -
+merkki  -
+metsä   -
+monttu  -
+oksa    -
+opaste  -
+parkkipaikka    -
+penkki  -
+pimeä   -
+puisto  -
+puu -
+puuttua -
+pysäköinti  -
+pyörä   -
+pyöräilijä  -
+pyörätie    -
+päiväkoti   -
+päätös  -
+rikki   -
+risteys -
+roska   -
+roska-astia -
+roskis  -
+sotkettu    -
+suojatie    -
+tolppa  -
+työmaa  -
+täysi   -
+vaara   -
+vaarallinen -
+valaistus   -
+valo    -
