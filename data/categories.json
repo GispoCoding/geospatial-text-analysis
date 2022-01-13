@@ -18,12 +18,14 @@
         "liukas",
         "lumi",
         "lumityö",
+        "nurin",
         "pestä",
         "reikä",
         "rikki",
         "siistiä",
         "siivota",
         "sotkettu",
+        "tolppa",
         "töhritty",
         "töhryt"
     ],
@@ -36,7 +38,7 @@
         "suojatie",
         "työmaa"
     ],
-    "julkinen_liikenne": [
+    "joukkoliikenne": [
         "bussipysäkki",
         "juna",
         "juna-asema",
@@ -102,8 +104,11 @@
         "ulkoilu",
         "urheilukenttä"
     ],
-    "luonto": [
+    "koira": [
         "koira",
+        "koirapuisto"
+    ],
+    "luonto": [
         "metsä",
         "oksa",
         "kasvaa",
