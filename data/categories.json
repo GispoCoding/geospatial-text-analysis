@@ -15,18 +15,19 @@
         "kaatunut",
         "korjata",
         "kunto",
+        "lehti",
         "liukas",
         "lumi",
         "lumityö",
         "nurin",
         "pestä",
+        "piirros",
         "reikä",
         "rikki",
-        "siistiä",
-        "siivota",
         "sotkettu",
         "tolppa",
         "töhritty",
+        "töhryjä",
         "töhryt"
     ],
     "jalankulku": [
@@ -77,6 +78,7 @@
         "roska-astia",
         "roskata",
         "roskis",
+        "siistiä",
         "siivota",
         "täysi"
     ],
@@ -93,9 +95,16 @@
         "opaste"
     ],
     "valaistus": [
+        "katulamppu",
+        "katuvalaisin",
+        "katuvalo",
         "pimeä",
+        "valaisin",
+        "valaisinpylväs",
         "valaistus",
-        "valo"
+        "valo",
+        "valopylväs",
+        "valotolppa"
     ],
     "liikunta": [
         "kenttä",
@@ -112,12 +121,17 @@
         "koirapuisto"
     ],
     "luonto": [
+        "kasvi",
+        "kuusi",
+        "metsikkö",
         "metsä",
+        "mänty",
         "oksa",
         "kasvaa",
         "pensas",
         "puisto",
         "pusikko",
+        "puska",
         "puu"
     ],
     "vesi": [
