@@ -16,7 +16,7 @@ conf = {
     "mappings": {
         "properties": {
             "service_request_id": {"type": "keyword"},
-            "service_code": {"type": "integer"},
+            "service_code": {"type": "keyword"},
             "description": {
                 "type": "text",
                 "analyzer": "default",
