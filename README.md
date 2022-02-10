@@ -11,7 +11,7 @@ The end result is a [Geopackage file](./qgis_project_and_layers.gpkg) that conta
 
 ## Requirements
 - Python 3.9
-- Docker (for running Elasticsearch with Finnish text analysis)
+- Docker (for running Elasticsearch with Finnish text analysis, using the excellent [Raudikko library](https://github.com/EvidentSolutions/elasticsearch-analysis-raudikko))
 
 ## Setup
 1. `pip install -r requirements.txt`
