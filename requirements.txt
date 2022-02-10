@@ -1,0 +1,9 @@
+elasticsearch
+jupyter
+nb-black
+nbdev
+pygeopkg
+pyproj
+python-slugify
+pytz
+requests
