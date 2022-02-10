@@ -34,9 +34,11 @@
         "puska",
         "puu",
         "ranta",
+        "saaste",
         "tarha",
         "vene",
-        "viheralue"
+        "viheralue",
+        "ympäristö"
     ],
     "vesi": [
         "sadevesi",
@@ -85,6 +87,7 @@
         "opastekyltti",
         "opastetaulu",
         "opastus",
+        "merkki",
         "merkintä",
         "merkitty",
         "merkitä"
@@ -176,6 +179,7 @@
         "ajotie",
         "asfaltti",
         "asvaltti",
+        "auto",
         "autoilija",
         "hidaste",
         "kaista",
@@ -187,7 +191,6 @@
         "läpiajo",
         "maalata",
         "maalaus",
-        "merkki",
         "nopeus",
         "nopeusrajoitus",
         "puomi",
@@ -202,7 +205,6 @@
     ],
     "pysäköinti": [
         "asukaspysäköinti",
-        "auto",
         "autopaikka",
         "kieltomerkki",
         "parkkeerata",
