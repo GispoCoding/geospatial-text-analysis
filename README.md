@@ -4,8 +4,8 @@ Notebook and QGIS project for analyzing Open311 API data
 ![QGIS project and visualization of categories](readme.png)
 
 This notebook reads
-    -Open311 API data (by default from Helsinki API) or, alternatively,
-    -Helsinki palautejärjestelmä csv database dump, which contains similar data.
+- Open311 API data (by default from Helsinki API) or, alternatively,
+- Helsinki palautejärjestelmä csv database dump, which contains similar data.
 
 The end result is a [Geopackage file](./qgis_project_and_layers.gpkg) that contains the data categorized based on Finnish text analysis and [predefined categories](./data/categories.json). QGIS visualization is provided in the same file.
 
