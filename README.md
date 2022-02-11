@@ -7,7 +7,9 @@ This notebook reads
 - Open311 API data (by default from Helsinki API) or, alternatively,
 - Helsinki palautejärjestelmä csv database dump, which contains similar data.
 
-The end result is a [Geopackage file](./qgis_project_and_layers.gpkg) that contains the data categorized based on Finnish text analysis and [predefined categories](./data/categories.json). QGIS visualization is provided in the same file.
+The end result is a [Geopackage file](./qgis_project_and_layers.gpkg) that contains the data categorized based on Finnish text analysis and [predefined categories](./data/categories.json).
+
+QGIS visualization is provided in the same file, so you may just use the result geopackage, if you don't want to tweak the analysis manually.
 
 ## Requirements
 - Python 3.9
