@@ -1,5 +1,5 @@
 # geospatial-text-analysis
-Notebook and QGIS project for analyzing Open311 API data
+Notebook and QGIS project for visualizing Open311 API data
 
 ![QGIS project and visualization of categories](readme.png)
 
