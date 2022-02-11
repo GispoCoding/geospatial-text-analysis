@@ -29,7 +29,7 @@ The notebook should document itself as you move forward.
 - If you have access to the database dump, please place the csv files in the [data](./data) directory. If you don't have access to the Helsinki csv database dump, you may run the notebook on all the open data from the last year from the Open311 API instead. 
 - If you have access to the Helsinki palautejärjestelmä categories csv file, plase the csv file in the [data](./data) directory. If not, you may run the analysis, just leave out the parts analyzing the service codes, they are not very useful anyway.
 - If you wish to adjust the output categories, feel free to edit the [categories.json](./data/categories.json).
-- The area names and geometries in [data](./data) directory are open data from Helsinki WFS https://kartta.hel.fi/avoindata/. You may update those files to the latest versions if needed, or, preferably, make a PR to this repo to read the latest names and geometries automatically from the Helsinki WFS. This data is used for geocoding place names without locations, and doing area statistics on the comments.
+- The area names and geometries in [data](./data) directory are open data from Helsinki WFS https://kartta.hel.fi/avoindata/. You may update those files to the latest versions if needed, or, preferably, [make a PR](https://github.com/GispoCoding/geospatial-text-analysis/issues/1) to this repo to read the latest names and geometries automatically from the Helsinki WFS. This data is used for geocoding place names without locations, and doing area statistics on the comments.
 
 ## Output
 
