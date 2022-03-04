@@ -4,7 +4,7 @@ Notebook and QGIS project for visualizing Open311 API data
 ![QGIS project and visualization of categories](readme.png)
 
 This notebook reads
-- Open311 API data (by default from Helsinki API) or, alternatively,
+- Open311 API (by default from Helsinki API) or, alternatively,
 - Helsinki palautejärjestelmä csv database dump, which contains similar data.
 
 Also the end result is included in this repo. It is a [Geopackage file](https://github.com/GispoCoding/geospatial-text-analysis/raw/main/qgis_project_and_layers.gpkg) that contains the data categorized based on Finnish text analysis and [predefined categories](./data/categories.json). QGIS visualization is provided in the same file, so you may just use the result geopackage, if you don't want to tweak the analysis manually.
