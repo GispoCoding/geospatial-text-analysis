@@ -9,7 +9,7 @@ This notebook reads
 
 Also the end result is included in this repo. It is a [Geopackage file](https://github.com/GispoCoding/geospatial-text-analysis/raw/main/qgis_project_and_layers.gpkg) that contains the data categorized based on Finnish text analysis and [predefined categories](./data/categories.json). QGIS visualization is provided in the same file, so you may just use the result geopackage, if you don't want to tweak the analysis manually.
 
-#### *[Click here to download the result Geopackage.|Tästä linkistä voit ladata kokeilun tulokset!](https://github.com/GispoCoding/geospatial-text-analysis/raw/main/qgis_project_and_layers.gpkg)*
+### *[Click here to download the result Geopackage.|Tästä linkistä voit ladata kokeilun tulokset!](https://github.com/GispoCoding/geospatial-text-analysis/raw/main/qgis_project_and_layers.gpkg)*
 
 *If you want to run the analysis yourself, keep reading:*
 
