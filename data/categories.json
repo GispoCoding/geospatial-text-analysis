@@ -1,4 +1,12 @@
 {
+    "penkit": [
+        "istahtaa",
+        "levähtää",
+        "penkki",
+        204,
+        4020,
+        4110
+    ],
     "vaara": [
         "hengenvaara",
         "hengenvaarallinen",
@@ -98,10 +106,8 @@
         "aita",
         "aitaus",
         "kaide",
-        "istua",
         "kukka",
         "laite",
-        "penkki",
         "pylväs",
         "tolppa"
     ],
